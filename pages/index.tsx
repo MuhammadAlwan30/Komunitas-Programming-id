@@ -1,7 +1,7 @@
 export default Home(){
  <>
   <header>
-  <h1></h1>
+  <h1>Selamat datang </h1>
 </header>
  </>
 }
