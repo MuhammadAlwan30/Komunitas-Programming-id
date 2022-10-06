@@ -1,7 +1,7 @@
-export default function  Index(){
+export default function index(){
  <>
   <header>
-  <h1>Selamat datang </h1>
+  <h1 classname="font-sans lightblue">Selamat datang </h1>
 </header>
  </>
 }
